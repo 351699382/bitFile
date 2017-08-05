@@ -139,5 +139,5 @@ try {
 [ico-version-dev]: https://img.shields.io/packagist/vpre/riverslei/payment.svg
 
 
-[link-packagist]: https://packagist.org/packages/riverslei/payment
-[link-downloads]: https://packagist.org/packages
+[link-packagist]: https://packagist.org/packages/sujun/big-file
+[link-downloads]: https://packagist.org/packages/sujun/big-file
