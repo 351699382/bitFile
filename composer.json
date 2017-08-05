@@ -1,5 +1,5 @@
 {
-    "name": "sujun/oauthsdk",
+    "name": "sujun/bigFile",
     "description":"bigFile,大文件处理。亿级文件分割、去重、排序",
     "type": "library",
     "license": "MIT",
