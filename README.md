@@ -19,14 +19,14 @@ bigFile是一个PHP写的文件处理工具类。
 通过composer，这是推荐的方式，可以使用composer.json 声明依赖，或者直接运行下面的命令。
 
 ```php
-    composer require "sujun/bigFile:v1.0.0"
+    composer require "sujun/big-file:v1.0.0"
 ```
 
 放入composer.json文件中
 
 ```php
     "require": {
-        "sujun/bigFile": "v1.0.0"
+        "sujun/big-file": "v1.0.0"
     }
 ```
 
